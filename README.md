@@ -20,5 +20,5 @@
 
   <br>
 
-  <img src="https://github.com/endy-rkt/endy-rkt/blob/main/banner.gif" alt="snake gif" style="max-width: 90%; height: auto; transform: scale(0.7);">
+  <img src="https://github.com/endy-rkt/endy-rkt/blob/main/banner.gif" alt="snake gif" style="max-width: 90%; height: auto; transform: scale(0.1);">
 </div>
