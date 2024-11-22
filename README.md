@@ -7,7 +7,7 @@
     <tr>
       <td>
         <a href="https://github.com/endy-rkt">
-          <img src="https://github-readme-stats.vercel.app/api?username=endy-rkt&show_icons=true&theme=nightowl&rank_icon=github" alt="GitHub Stats" style="max-width: 100%; height: auto;">
+          <img src="https://readme-git-main-tolojanahary-endys-projects.vercel.app//api?username=endy-rkt&show_icons=true&theme=nightowl" alt="GitHub Stats" style="max-width: 100%; height: auto;">
         </a>
       </td>
       <td>
